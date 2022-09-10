@@ -1,3 +1,3 @@
 # Test_Repos
 
-Examples for usage Test_Repos
+Examples of usage Test_Repos
